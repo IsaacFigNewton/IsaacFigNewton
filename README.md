@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Isaac!
+## Hi there, I'm Isaac!
 -----------------------------------
 
 I'm an undergraduate student in Cal Poly's Computer Science and Math programs! </br>
