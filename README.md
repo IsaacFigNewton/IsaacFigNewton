@@ -19,9 +19,9 @@ My main research interests are:
 
 ### My Rat Collection
 <img src="https://media.tenor.com/jwim7U-E7bkAAAAj/rat-spinning.gif" width="200">
-<img src="https://media1.tenor.com/m/bMo2sBdmVbMAAAAd/two-rats.gif" width="250">
+<!-- <img src="https://media1.tenor.com/m/bMo2sBdmVbMAAAAd/two-rats.gif" width="250">
 <img src="https://media1.tenor.com/m/nIuPVeeONVgAAAAC/four-rats-spinning-rats.gif" width="300">
 <img src="https://media1.tenor.com/m/3saMbcLeN_4AAAAd/spinning-rat-rat.gif" width="350">
 <img src="https://media.tenor.com/rO7z_eOaXi8AAAAM/16rats-rat.gif" width="400">
 <img src="https://media1.tenor.com/m/VlFuimDfU3IAAAAd/32rats-spinning-rats.gif" width="450">
-<img src="https://media1.tenor.com/m/B9T7rQALlNAAAAAd/meme-64-spinning-rats.gif" width="500">
+<img src="https://media1.tenor.com/m/B9T7rQALlNAAAAAd/meme-64-spinning-rats.gif" width="500"> -->
