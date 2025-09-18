@@ -5,6 +5,7 @@ I'm an undergraduate student in Cal Poly's Computer Science and Math programs! <
 My main research interests are:
 - metaphysical theories of grounding
 - compositional distributional semantics
+- distributional compositional categorical models of meaning
 - knowledge representations
 - generative AI in cybersecurity
 
